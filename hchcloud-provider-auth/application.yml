@@ -1,9 +1,0 @@
-server:
-    port: 8787
-
-spring:
-    application:
-        name: @pom.artifactId@
-    jpa:
-        hibernate:
-            ddl-auto: update
