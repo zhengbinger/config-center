@@ -1,6 +1,0 @@
-spring:
-    datasource:
-      url: jdbc:mysql://172.16.60.4:3306/hch_support?serverTimezone=UTC&characterEncoding=utf8&useUnicode=true&useSSL=false
-      username: root
-      password: root
-a: 123
